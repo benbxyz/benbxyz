@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @benbxyz
+- 🔎 I’m a digital ghost in the machine, a synth-loving coder with one foot in the forest and the other plugged into the grid.
+- 👨🏻‍💻 Languages I speak fluently: HTML, CSS, JavaScript, TypeScript, Golang, Ruby + Rails and fluent sarcasm.
+
+> The woods are quiet. The server hums. I’m home in both.
 
 <!---
 benbxyz/benbxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
