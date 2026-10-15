@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 👋 Hi, I’m @benbxyz. Usually building something, exploring an idea or heading for the hills.
+- 👨🏻‍💻 Languages I speak: HTML, CSS, JavaScript, TypeScript, Golang, Ruby + Rails.
+- 🔗 [https://benbxyz.com](https://benbxyz.com)
 
 <!--
 **benbxyz/benbxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
