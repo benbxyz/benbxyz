@@ -1,4 +1,3 @@
-## Hi there 👋
 - 👋 Hi, I’m @benbxyz. Usually building something, exploring an idea or heading for the hills.
 - 👨🏻‍💻 Languages I speak: HTML, CSS, JavaScript, TypeScript, Golang, Ruby + Rails.
 - 🔗 [https://benbxyz.com](https://benbxyz.com)
